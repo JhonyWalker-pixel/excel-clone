@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-As my first clone I decided to recreate the interface of a software that is indispensable today: Microsoft Excel. It is a simple clone where it has small interactions for the user in addition to being able to play a little with filling out spreadsheets. How about accessing and seeing how it got, click [here](https://dribbble.com/)
+As my first clone I decided to recreate the interface of a software that is indispensable today: Microsoft Excel. It is a simple clone where it has small interactions for the user in addition to being able to play a little with filling out spreadsheets. How about accessing and seeing how it got, click [here](https://jhonywalker-pixel.github.io/excel-clone/)
 
 ## :computer: Languages used
 
